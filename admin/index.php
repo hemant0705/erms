@@ -19,7 +19,7 @@ if(isset($_POST['login']))
   ?>
 
 
-
+  
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,7 +27,7 @@ if(isset($_POST['login']))
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="Employee Record management System in php and mysql">
+  <meta name="viewport" content="Employee 1 Record management System in php and mysql">
   <meta name="description" content="Employee Record management System in php and mysql">
   <meta name="author" content="Sarita Pandey">
 
