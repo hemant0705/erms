@@ -75,7 +75,7 @@ where employeedetail.ID='$eid'");
 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
 
 <tr>
-  <th>S number</th>
+  <th>S no.</th>
   <th>Emp Code</th>
   <th>Emp First Name</th>
   <th>Emp Last Name</th>
